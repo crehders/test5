@@ -1,0 +1,14 @@
+{
+  "name": "crehders/test5",
+  "description": "meeeh2",
+  "type": "library",
+  "keywords": [
+    "test"
+  ],
+  "authors": [
+    {
+      "name": "crehders",
+      "role": "lead"
+    }
+  ]
+}
